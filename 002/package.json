@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Second lesson of nodejs course",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/curso-nodejs-faa"
+  },
+  "keywords": [
+    "nodejs",
+    "aula"
+  ],
+  "author": "Fernando",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
